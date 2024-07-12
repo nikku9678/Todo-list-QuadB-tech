@@ -35,3 +35,6 @@ These instructions will help you set up and run the project on your local machin
 
    ```bash
    npm run dev
+
+### Todo list live at:-  
+https://todo-list-quad-b-tech.vercel.app/
