@@ -1,0 +1,21 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
+body {
+  background-color: #f9fafb;
+}
+
+input[type="text"] {
+  transition: all 0.3s ease-in-out;
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+}
+
+li:hover {
+  background-color: #f3f4f6;
+}

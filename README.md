@@ -27,3 +27,11 @@ These instructions will help you set up and run the project on your local machin
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
+2. **Install Dependencies:**
+
+   ```bash
+   npm install
+3. **Start the development server::**
+
+   ```bash
+   npm run dev
